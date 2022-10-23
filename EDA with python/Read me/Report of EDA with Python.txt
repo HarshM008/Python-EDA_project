@@ -1,0 +1,14 @@
+---->The dataset is taken from Kaggle platform.
+     URL:https://www.kaggle.com/datasets/notkrishna/cricket-statistics-for-all-formats
+
+----> There were total 9 files in the dataset.The name of file 
+which is chosen for EDA is : 'twbo.csv'
+
+
+Whole project is divided in following steps :
+--> Dataset selection and loading it into Jupyter notebook.
+--> Data cleaning with various measures
+--> Exploratory analysis and visualization
+--> Asking and answering questions about dataset
+--> Inferences and conclusions after analysis
+
